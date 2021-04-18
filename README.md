@@ -12,6 +12,9 @@ A scanner for ***µC*** language with lex.
         ```bash=
         sudo apt install gcc flex bison python3 git
         ```
+## Lexical Definitions
+![](https://i.imgur.com/PHrEmuF.png)
+
 ## How to Debug
 * Compile source code and feed the input to your program, then compare with the ground truth.
     ```bash=
